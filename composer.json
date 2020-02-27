@@ -1,0 +1,17 @@
+{
+    "name": "root/greetr",
+    "description": "simple first try to make something",
+    "authors": [
+        {
+            "name": "Arafat",
+            "email": "syedyeaminarafat@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Arafat\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
